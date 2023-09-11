@@ -7,6 +7,7 @@ QR Code Generator using NodeJS &amp; NPM Package
 3. Create a txt file to save the user input using the native fs node module.
 
 Note: You should have NodeJS on your local computer! (https://nodejs.org/en)
+
 After Installing run the code in VS Code Termial
 eg:
 ![main](https://cdn.discordapp.com/attachments/966736027563733092/1150872526495432836/image.png)
